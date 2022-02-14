@@ -1,0 +1,14 @@
+1. putty 실행
+2. HostName은 raspberry pi의 ip주소
+3. id는 pi, password는 raspberry
+4. 처음 세팅 과정
+  4-1.	“sudo su –“ superuser 변경
+  4-2.	“apt-get update” 패키지 정보 업데이트
+  4-3.	Web server(nginx) 설치 – “apt-get install nginx”
+  4-4.	서버 실행 – “service nginx start” -> 아무것도 안뜨고 돌아오면 정상적으로 서비스 가동된 것
+5. raspberry pi의 ip주소를 url에 입력하면 기본 페이지 확인 가능
+6. 기본 페이지 만들어주고 싶다면?
+  6-1.  cd /var/www/html 를 통해서 해당 directory로 이동
+  6-2.  vi index.html 로 내용 작성
+  6-3.  cat index.html 로 내용 확인
+7. 페이지 새로고침해서 바뀐 기본 페이지 확인 가능
