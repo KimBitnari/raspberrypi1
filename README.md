@@ -1,14 +1,9 @@
 # Raspberry Pi 기본 페이지 만들기 및 기본 페이지 예시
 
-<hr>
-
 ## filezila
 
 gist에 fork하기도하고, 작성해두기도 함. <br/>
 (참고) 실습 과정 및 결과 설명 주소: https://velog.io/@qkqhqhrh11/Web-page-%EB%A7%8C%EB%93%A4%EA%B8%B0
-
-
-<hr>
 
 ## Raspberry Pi
 
